@@ -1,0 +1,20 @@
+a{
+    color: rgb(211, 16, 16);
+    text-decoration: none;
+}
+h4{
+    color: rgb(236, 157, 59);
+    text-decoration: dotted ;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+/*used in 'id=" "' tag*/
+#ds{
+    color:bisque;
+}
+/*used in 'class=" "' tag*/
+.rf{
+    color: blue;
+}
